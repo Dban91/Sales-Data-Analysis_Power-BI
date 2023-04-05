@@ -1,2 +1,2 @@
 # Sales-Data-Analysis_Power-BI
-Simple sales report creation using DAX calculations
+This project is based on global sales insighs using DAX calculations.
